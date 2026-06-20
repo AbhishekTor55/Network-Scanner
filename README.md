@@ -1,2 +1,26 @@
-Network Scanner created using Next.js# Network-Scanner
-# Network-Scanner
+# Network Scanner
+
+A powerful and user-friendly network scanner built with Next.js and TypeScript.
+
+## Features
+
+- Device Discovery
+- Port Scanning
+- Network Information Analysis
+- Fast and Responsive UI
+- Built with Next.js, TypeScript, and Tailwind CSS
+
+## Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Node.js
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/network-scanner.git
+cd network-scanner
+npm install
+npm run dev
