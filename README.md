@@ -20,7 +20,7 @@ A powerful and user-friendly network scanner built with Next.js and TypeScript.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/network-scanner.git
+git clone https://github.com/AbhishekTor55/Network-Scanner.git
 cd network-scanner
 npm install
 npm run dev
